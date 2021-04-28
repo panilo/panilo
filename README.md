@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning PHP and Dart
 - 💬 Ask me about Cloud, Security and IT in general :) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danilodesole/)
-- 😄 Pronouns: Someone call me `The Hunkle` usually in Italian that sound `Lo zio` 
+- 😄 Pronouns: Someone call me `The Uncle` usually in Italian that sound `Lo zio` 
 - ⚡ Fun fact: I love LEGO
 
 <br />
