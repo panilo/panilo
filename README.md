@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cloud Computing Tech, WordPress plugins and scalability
-- 🌱 I’m currently learning PHP and Dart
-- 💬 Ask me about Cloud, Security and IT in general :) 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danilodesole/)
-- 😄 Pronouns: Someone call me `The Uncle` usually in Italian that sound `Lo zio` 
+I'm Danilo Desole, a DevOp engineer with more than 10 years experience. I'm working with Cloud Technologies, mainly on AWS; my expertise are IAC, Control Tower Customizations and Organization accounts structure. I also do website development and deployment, specifically on WordPress and static websites. 
+
+
+- 📫 Reach me out on my personal [webiste](https://danilodesole.it)
+- 💬 You can also see my blog [here](https://dev.to/panilo)
 - ⚡ Fun fact: I love LEGO
 
 <br />
